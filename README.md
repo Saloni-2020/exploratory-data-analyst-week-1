@@ -1,2 +1,1 @@
-![image](https://user-images.githubusercontent.com/88283525/174468978-24b0b970-1b0e-43ef-b54c-426dc1559ba8.png)
-
+[homework.pdf](https://github.com/Saloni-2020/exploratory-data-analyst-week-1/files/8934871/homework.pdf)
